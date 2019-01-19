@@ -1,0 +1,3 @@
+[submodule "theme-sources/dracula"]
+	path = theme-sources/dracula
+	url = https://github.com/dracula/zsh.git
