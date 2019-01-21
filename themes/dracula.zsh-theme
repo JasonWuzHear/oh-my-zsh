@@ -1,1 +1,1 @@
-/home/jason/.oh-my-zsh/theme-sources/dracula/dracula.zsh-theme
+/home/jason/dotfiles/oh-my-zsh/theme-sources/dracula/dracula.zsh-theme
