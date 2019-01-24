@@ -106,3 +106,7 @@ bindkey '^w' backward-kill-word
 bindkey '^r' history-incremental-search-backward
 
 export KEYTIMEOUT=1
+
+# Set to ls everytime directory is changed
+autoload -U add-zsh-hook
+add-zsh-hook -Uz chpwd (){ ls; }
