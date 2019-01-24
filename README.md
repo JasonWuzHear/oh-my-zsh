@@ -251,9 +251,12 @@ Oh My Zsh is released under the [MIT license](LICENSE.txt).
 Oh My Zsh was started by the team at [Planet Argon](https://www.planetargon.com/?utm_source=github), a [Ruby on Rails development agency](https://www.planetargon.com/skills/ruby-on-rails-development?utm_source=github). Check out our [other open source projects](https://www.planetargon.com/open-source?utm_source=github).
 
 ## Jason Specific installation...
-1. git submodule init
-2. git submodule update
-3. `ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh`
-4. `ln -sf ~/dotfiles/oh-my-zsh/zshrc ~/.zshrc`
-5. `ln -sf ~/dotfiles/oh-my-zsh/theme-sources/dracula/dracula.zsh-theme ~/dotfiles/oh-my-zsh/themes/dracula.zsh-theme`
+```
+git submodule init
+git submodule update
+
+ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh`
+\ln -sf ~/dotfiles/oh-my-zsh/zshrc ~/.zshrc`
+\ln -sf ~/dotfiles/oh-my-zsh/theme-sources/dracula/dracula.zsh-theme ~/dotfiles/oh-my-zsh/themes/dracula.zsh-theme
+```
 
