@@ -258,5 +258,6 @@ git submodule update
 ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh
 \ln -sf ~/dotfiles/oh-my-zsh/zshrc ~/.zshrc
 \ln -sf ~/dotfiles/oh-my-zsh/theme-sources/dracula/dracula.zsh-theme ~/dotfiles/oh-my-zsh/themes/dracula.zsh-theme
+\ln -sf ~/dotfiles/oh-my-zsh/zprofile ~/.zprofile
 ```
 
