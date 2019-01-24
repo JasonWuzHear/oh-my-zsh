@@ -255,8 +255,8 @@ Oh My Zsh was started by the team at [Planet Argon](https://www.planetargon.com/
 git submodule init
 git submodule update
 
-ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh`
-\ln -sf ~/dotfiles/oh-my-zsh/zshrc ~/.zshrc`
+ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh
+\ln -sf ~/dotfiles/oh-my-zsh/zshrc ~/.zshrc
 \ln -sf ~/dotfiles/oh-my-zsh/theme-sources/dracula/dracula.zsh-theme ~/dotfiles/oh-my-zsh/themes/dracula.zsh-theme
 ```
 
