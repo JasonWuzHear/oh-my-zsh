@@ -62,6 +62,7 @@ ZSH_THEME="agnoster"
 plugins=(
   git
   virtualenv
+  tmux
 )
 
 source $ZSH/oh-my-zsh.sh
